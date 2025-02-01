@@ -1,5 +1,0 @@
-src/test/resources/feature/Oracle_JDK-22/lib/modules/
-src/test/resources/feature/Oracle_JDK-22
-src/test/resources/feature/Oracle_JDK-22/lib
-src/test/resources/feature/*
-src/test/resources/feature/Oracle_JDK-22/*
