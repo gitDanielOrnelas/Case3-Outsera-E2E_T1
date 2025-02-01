@@ -9,7 +9,7 @@ import br.ornelas.Forms.SendQuoteForm;
 import br.ornelas.Forms.ValidaMensagemForm;
 import br.ornelas.Forms.VehicleDataForm;
 
-public class GeralPages {
+public class FormPage {
 
 	private WebDriver navegador;
 

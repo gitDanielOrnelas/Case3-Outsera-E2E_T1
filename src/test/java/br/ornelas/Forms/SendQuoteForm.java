@@ -29,7 +29,7 @@ public class SendQuoteForm {
         navegador.findElement(By.id("phone")).sendKeys("11947904770");        
         
         //Campo username
-        navegador.findElement(By.id("username")).sendKeys("DanielAccenture");        
+        navegador.findElement(By.id("username")).sendKeys("DanielOrnelas");        
         
         //Campo Password
         navegador.findElement(By.id("password")).sendKeys("1234@Daniel");        
