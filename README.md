@@ -7,3 +7,6 @@ incluir assertivas para validar que a navegação foi bem-sucedida.
 
 - Avaliação: Estrutura e clareza dos testes, uso de boas práticas (como Page
 Object Pattern), tempo de execução e estabilidade
+
+Site utilizado: http://sampleapp.tricentis.com/101/app.php
+
