@@ -9,4 +9,6 @@ incluir assertivas para validar que a navegação foi bem-sucedida.
 Object Pattern), tempo de execução e estabilidade
 
 Site utilizado: http://sampleapp.tricentis.com/101/app.php
+Java: Java HotSpot(TM) 64-Bit Server VM 11.0.24+7-LTS-271
+Cucumber: cucumber-jvm 7.6.0
 
