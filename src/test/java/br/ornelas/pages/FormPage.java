@@ -15,28 +15,31 @@ public class FormPage {
 
 	public VehicleDataForm preencherVehicleData() throws InterruptedException {
 
-		return new VehicleDataForm (navegador);
+		return new VehicleDataForm(navegador);
 	}
+
 	public InsurantDataForm preencherInsurantData() throws InterruptedException {
 
-		return new InsurantDataForm (navegador);
+		return new InsurantDataForm(navegador);
 	}
+
 	public ProductDataForm preencherProductData() throws InterruptedException {
 
-		return new ProductDataForm (navegador);
+		return new ProductDataForm(navegador);
 	}
+
 	public PriceOptionsForm preencherPriceOptions() throws InterruptedException {
 
-		return new PriceOptionsForm (navegador);
+		return new PriceOptionsForm(navegador);
 	}
+
 	public SendQuoteForm preencherSendQuote() throws InterruptedException {
 
-		return new SendQuoteForm (navegador);
+		return new SendQuoteForm(navegador);
 	}
+
 	public ValidaMensagemForm validaMensagem() throws InterruptedException {
 
-		return new ValidaMensagemForm (navegador);
-	}  
+		return new ValidaMensagemForm(navegador);
+	}
 }
-
-
